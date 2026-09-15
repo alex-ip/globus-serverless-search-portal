@@ -36,7 +36,15 @@
           "client_id": "632f454c-e9eb-4b9b-a238-b6b8ed866041"
         },
         "search": {
-          "index": "82e1741b-8278-4342-827b-0a8e6148a8b8"
+          "index": "82e1741b-8278-4342-827b-0a8e6148a8b8",
+          "facets": [
+            {
+              "name": "Filename",
+              "field_name": "filename",
+              "type": "terms",
+              "size": 100
+            }
+          ]
         }
       }
     }
