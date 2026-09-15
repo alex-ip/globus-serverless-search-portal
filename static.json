@@ -19,7 +19,6 @@
       "components": {
         "Result": {
           "heading": "entries[0].content.filename"
-          ]
         }
       },
       "globus": {
