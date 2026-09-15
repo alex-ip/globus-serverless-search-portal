@@ -36,21 +36,7 @@
           "client_id": "632f454c-e9eb-4b9b-a238-b6b8ed866041"
         },
         "search": {
-          "index": "78b92aca-e361-4307-8f66-bc448f20e2c3",
-          "facets": [
-            {
-              "name": "Tags",
-              "field_name": "tags",
-              "type": "terms",
-              "size": 10
-            },
-            {
-              "name": "Region",
-              "field_name": "region",
-              "type": "terms",
-              "size": 10
-            }
-          ]
+          "index": "82e1741b-8278-4342-827b-0a8e6148a8b8"
         }
       }
     }
